@@ -1,0 +1,35 @@
+body{
+	background-color: #FBEFFB;
+}
+
+section{
+	max-width: 960px;
+	margin: 30px auto;
+	background-color: #FBFBEF;
+	padding: 20px;
+}
+
+h1{
+	font: 18px Arial 600;
+	text-align: center;
+}
+
+.cat{
+	width: 120px;
+	float: left;
+	margin-right: 25px;
+}
+
+p{
+	text-align: justify;
+	font: 14px Arial 400;
+	margin-bottom: 40px;
+}
+
+.date-author{
+	text-align: right;
+}
+
+.author{
+	font-style: italic;
+}
